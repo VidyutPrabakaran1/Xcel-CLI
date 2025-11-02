@@ -1,6 +1,6 @@
 # Xcel-CLI
 <img width="1161" height="796" alt="Screenshot 2025-11-02 131430" src="https://github.com/user-attachments/assets/386f4315-8d86-417c-9fce-1a37a4028bf7" />
-A Xcel CLI is a simple and lightweight command line interface for creating, editing, and viewing Excel spreadsheets.
+Xcel CLI is a simple and lightweight command line interface for creating, editing, and viewing Excel spreadsheets.
 
 ## Installation
 Step 1:
